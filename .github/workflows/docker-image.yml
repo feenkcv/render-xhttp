@@ -25,4 +25,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: ghcr.io/feenkcv/render:latest
+          tags: ghcr.io/feenkcv/render1:latest
